@@ -1,0 +1,17 @@
+Notes and instructions.
+=======================
+* When using the categorizing function be sure to click the name, the box itself won't redirect in the
+current verion.
+
+* Search function is accurate for the most part but for digits values from 1 to 5 won't provide accurate searches
+so besure to provide atleast 1 alphabetical character or 2characters. For alphabetical values search
+will provide accurate results.
+
+**If you have any issues be sure to let us know via coorayeronnemanoshapineapple@gmail.com
+
+*If you have any issue loading the website be sure to visit the link mentioned below.
+https://youtu.be/86p3MpyeLvY 
+
+*If you have trouble going to home, just click the logo anywhere appears it will tak you to hpme page.
+
+*******************************************************************************************************
